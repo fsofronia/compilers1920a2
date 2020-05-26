@@ -1,4 +1,284 @@
-** Αντικαταστήστε το αρχείο αυτό με την έξοδο του προγράμματός σας **
-
-Μπορείτε να πάρετε την έξοδο με ανακατεύθυνση (>) ή με απλό copy-paste από το τερματικό σας.
-Προσοχή: όχι με screenshot!
+ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ
+https://webmail.ionio.gr/ WebMail
+https://ionio.gr/gr/comunity/directory/ Τηλεφωνικός Κατάλογος
+https://opencourses.ionio.gr Open eClass (OpenCourses) - Ασύγχρονη Τηλεκπαίδευση
+http://e-class.ionio.gr/ e-Class - Ασύγχρονη Τηλεκπαίδευση
+http://gram-web.ionio.gr/unistudent/?lang=el-gr Online Υπηρεσίες Γραμματείας (gram-web)
+http://gram-web.ionio.gr/classweb/?lang=el-gr Σύστημα Υποβοήθησης Διδασκαλίας (classweb)
+https://studentsupport.ionio.gr/gr/ Υποστήριξη Παρεμβάσεων Κοινωνικής Μέριμνας
+http://iup.ionio.gr/index.php?newlang=greek Βιβλιοθήκη
+http://sites.ionio.gr/international/gr/ Διεθνείς &amp; Δημόσιες Σχέσεις
+http://dasta.ionio.gr/internship/ Γραφείο Πρακτικής Άσκησης
+http://kedivim.ionio.gr/ Κέντρο Επιμόρφωσης και Δια Βίου Μάθησης
+http://modip.ionio.gr/gr/ Μονάδα Διασφάλισης Ποιότητας - ΜΟ.ΔΙ.Π
+http://museum.ionio.gr/gr/ Μουσείο Ιονίου Πανεπιστημίου
+http://noc.ionio.gr/ Δίκτυα &amp; Τηλεπικοινωνίες
+http://history.ionio.gr/gr/ Ιστορίας
+http://dflti.ionio.gr/el/ Ξένων Γλωσσών, Μετάφρασης &amp; Διερμηνείας
+http://tab.ionio.gr/?q=el Αρχειονομίας, Βιβλιοθηκονομίας &amp; Μουσειολογίας
+http://di.ionio.gr/ Πληροφορικής
+http://avarts.ionio.gr/gr/ Τεχνών Ήχου και Εικόνας
+http://music.ionio.gr/gr/ Μουσικών Σπουδών
+http://dmc.ionio.gr Ψηφιακών Μέσων και Επικοινωνίας
+http://ethnomus.ionio.gr/gr/ Εθνομουσικολογίας
+http://envi.ionio.gr/gr/ Περιβάλλοντος
+http://fst.ionio.gr/gr/ Επιστήμης και Τεχνολογίας Τροφίμων
+http://rd.ionio.gr/ Περιφερειακής Ανάπτυξης
+http://tourism.ionio.gr/ Τουρισμού
+https://ionio.gr/gr/about/statistics/ Στατιστικά κίνησης
+https://ionio.gr/gr/about/links/ Σύνδεσμοι
+https://ionio.gr/gr/about/sitemap/ Χάρτης δικτυακού τόπου
+https://ionio.gr/gr/about/webteam/ Ομάδα Ανάπτυξης &amp; Διαχείρισης
+https://www.facebook.com/ionio.gr" title="facebook <img src="https://ionio.gr/images/layout/icon_fb.png" alt=""/>
+https://twitter.com/myionio" title="twitter <img src="https://ionio.gr/images/layout/icon_tw.png" alt=""/>
+http://www.youtube.com/user/myionio" title="youtube <img src="https://ionio.gr/images/layout/icon_yt.png" alt=""/>
+https://www.instagram.com/ionianuniversity/" title="instagram <img src="https://ionio.gr/images/layout/icon_ig.png" alt=""/>
+https://ionio.gr/feeds/rss_gr.xml" title="rss feed <img src="https://ionio.gr/images/layout/icon_rs.png" alt=""/>
+https://ionio.gr/en/"  class="tooltip-bottom-left" title="Change language to English En
+https://ionio.gr/gr/university/governance/rectorate/" class="menu-title Πρυτανεία
+https://www.ionio.gr/central/gr/university/governance/rectorate/ <img class="max-width" style="border-radius:5px;margin-top:10px;" src="https://www.ionio.gr/central/images/content/rectorate.jpg" alt="">
+https://ionio.gr/gr/university/governance/rectorate/ Περισσότερα
+https://ionio.gr/gr/university <img src="https://ionio.gr/images/layout/icon_s_1.png" alt=""/>Το Πανεπιστήμιο
+https://ionio.gr/gr/university/governance/ Διοίκηση
+https://ionio.gr/gr/university/governance/rectorate/ Πρυτανεία
+https://ionio.gr/gr/university/governance/senate/ Σύγκλητος
+https://ionio.gr/gr/university/organisation-chart/ Οργανόγραμμα
+https://ionio.gr/gr/university/presentation/ Παρουσίαση Πανεπιστημίου
+https://ionio.gr/gr/university/kedivim/ Κέντρο Επιμόρφωσης και Δια Βίου Μάθησης
+https://ionio.gr/gr/university/modip/ Μονάδα Διασφάλισης Ποιότητας
+https://ionio.gr/gr/university/museum-ionio/ Πανεπιστημιακό Μουσείο
+https://ionio.gr/gr/university/access/ Πρόσβαση
+https://ionio.gr/gr/university/map/ Χάρτης Ιονίων Νήσων
+https://ionio.gr/gr/university/contact/ Επικοινωνία
+https://ionio.gr/gr/community <img src="https://ionio.gr/images/layout/icon_s_2.png" alt=""/>Κοινότητα
+https://ionio.gr/gr/community/directory/ Ευρετήριο Προσωπικού
+https://ionio.gr/gr/community/academic-staff/ Διδακτικό Προσωπικό
+https://ionio.gr/gr/community/administrative-staff/ Διοικητικό Προσωπικό
+https://ionio.gr/gr/community/electors/ Μητρώα Εκλεκτόρων
+https://ionio.gr/gr/community/unions/ Σύλλογοι
+https://ionio.gr/gr/community/social-media/ Κοινωνική Δικτύωση
+https://ionio.gr/gr/studies <img src="https://ionio.gr/images/layout/icon_s_3.png" alt=""/>Σπουδές
+https://ionio.gr/gr/studies/faculties/ Σχολές
+https://ionio.gr/gr/studies/faculties/hti/ Σχολή Ιστορίας & Μετάφρασης - Διερμηνείας
+https://ionio.gr/gr/studies/faculties/isi/ Σχολή Επιστήμης της Πληροφορίας & Πληροφορικής
+https://ionio.gr/gr/studies/faculties/maa/ Σχολή Μουσικής & Οπτικοακουστικών Τεχνών
+https://ionio.gr/gr/studies/faculties/ens/ Σχολή Περιβάλλοντος
+https://ionio.gr/gr/studies/faculties/ecs/ Σχολή Οικονομικών Επιστημών
+https://ionio.gr/gr/studies/postgraduate/ Μεταπτυχιακά/Διδακτορικά
+https://ionio.gr/gr/studies/summer-schools/ Θερινά Σχολεία
+https://ionio.gr/gr/studies/e-learning/ e-Learning
+https://ionio.gr/gr/studies/mobility/ Κινητικότητα Φοιτητών
+https://ionio.gr/gr/studies/dasta/ Απασχόληση &amp; Σταδιοδρομία
+https://ionio.gr/gr/studies/alumni/ Απόφοιτοι
+https://ionio.gr/gr/services <img src="https://ionio.gr/images/layout/icon_s_4.png" alt=""/>Υπηρεσίες
+https://ionio.gr/gr/services/library/ Βιβλιοθήκη
+https://ionio.gr/gr/services/administrative/ Διεύθυνση Διοικητικού
+https://ionio.gr/gr/services/administrative/administrative-dept/ Τμήμα Διοικητικού Προσωπικού
+https://ionio.gr/gr/services/administrative/administrative-docs/ Έντυπα Αξιολόγησης
+https://ionio.gr/gr/services/administrative/furlough-docs/ Έντυπα Αδειών
+https://ionio.gr/gr/services/pr/ Τμήμα Διεθνών & Δημοσίων Σχέσεων
+https://ionio.gr/gr/services/pr/erasmus/ Erasmus+
+https://ionio.gr/gr/services/pr/css/ Corfu Summer School
+https://ionio.gr/gr/services/ts/ Διεύθυνση Τεχνικών Υπηρεσιών
+https://ionio.gr/gr/services/it-noc/ Διεύθυνση Πληροφορικής  & Δικτύων
+https://ionio.gr/gr/services/it-noc/noc/ Τμήμα Δικτύων & Τηλεπικοινωνιών
+https://ionio.gr/gr/services/it-noc/it/ Τμήμα Πληροφοριακών Συστημάτων
+https://ionio.gr/gr/services/users/ Υπηρεσίες Καταλόγου Χρηστών
+https://ionio.gr/gr/services/e-services/ Τηλεκπαίδευση & Τηλεδιάσκεψη
+https://ionio.gr/gr/services/webmail/ Υπηρεσία WebMail
+https://ionio.gr/gr/services/e-rent/ e-Ενοικιάζεται
+https://ionio.gr/gr/research <img src="https://ionio.gr/images/layout/icon_s_5.png" alt=""/>Έρευνα
+https://ionio.gr/gr/research/rc/ Επιτροπή Ερευνών
+https://ionio.gr/gr/research/rc-programs/ Ενεργά Προγράμματα
+https://ionio.gr/gr/research/rc-calls/ Προκηρύξεις Προγραμμάτων
+https://ionio.gr/gr/research/laboratories/ Εργαστήρια
+https://ionio.gr/gr/research/projects/ Έρευνα & ΕΠΕΑΕΚ
+https://ionio.gr/gr/news <img src="https://ionio.gr/images/layout/icon_s_6.png" alt=""/>Νέα
+https://ionio.gr/gr/news/all-news/ Όλες οι Δημοσιεύσεις
+https://ionio.gr/gr/news/academic-calendar/ Ακαδημαϊκό Ημερολόγιο
+https://ionio.gr/gr/news/recent-publications/ Πρόσφατες Εκδόσεις
+https://ionio.gr/gr/news/newsletter/ Ενημερωτικό Δελτίο
+https://ionio.gr/gr/news/streaming/ Μετάδοση Video
+https://ionio.gr/gr/students <img src="https://ionio.gr/images/layout/icon_s_7.png" alt=""/>Φοιτητές
+https://ionio.gr/gr/students/care/ Φοιτητική Μέριμνα
+https://ionio.gr/gr/students/internship/ Πρακτική Άσκηση
+https://ionio.gr/gr/students/ombudsman/ Συνήγορος του Φοιτητή
+https://ionio.gr/gr/students/gram-web/ Ηλεκτρονική Καρτέλα Φοιτητή
+https://ionio.gr/gr/students/sports/ Πανεπιστημιακό Γυμναστήριο
+https://ionio.gr/gr/students/useful/ Χρήσιμες Πληροφορίες
+https://ionio.gr/gr/prospective <img src="https://ionio.gr/images/layout/icon_s_8.png" alt=""/>Υποψήφιοι Φοιτητές
+https://ionio.gr/gr/prospective/admissions/ Τρόποι Εισαγωγής
+https://ionio.gr/gr/prospective/university-history/ Ιστορικό Πανεπιστημίου
+https://ionio.gr/gr/about <img src="https://ionio.gr/images/layout/icon_s_9.png" alt=""/>Ionio.gr
+https://ionio.gr/gr/about/links/ Σύνδεσμοι
+https://ionio.gr/gr/about/sitemap/ Χάρτης Δικτυακού Τόπου
+https://ionio.gr/gr/about/webteam/ WebTeam Ιονίου Πανεπιστημίου
+https://ionio.gr/gr/about/statistics/ Στατιστικά Κίνησης
+https://ionio.gr/gr/about/results/ Αποτελέσματα Αναζήτησης
+https://ionio.gr/gr/news/13884 <img class="slider-img-image" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13884-35690.jpg" alt="img"/>
+https://ionio.gr/gr/news/13884 Δίκτυο για τις Εφαρμογές  Ήχου και Εικόνας για Ενεργό και Υποβοηθούμενη Διαβίωση σε σχέση με την Προστασία της Ιδιωτικής Ζωής ("Good Brother")
+https://ionio.gr/gr/news/13826 <img class="slider-img-image" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13826-24014.jpg" alt="img"/>
+https://ionio.gr/gr/news/13826 Οδηγίες χρήσης για τις πλατφόρμες σύγχρονης τηλεκπαίδευσης Webex (Cisco) και ZOOM
+https://ionio.gr/gr/news/13819 <img class="slider-img-image" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13819-10053.jpg" alt="img"/>
+https://ionio.gr/gr/news/13819 Πρυτανική πράξη: Λήψη μέτρων και παροχή οδηγιών για τη λειτουργία της διοίκησης και των διοικητικών υπηρεσιών του Ι.Π. για τον περιορισμό της διάδοσης του κορωνοϊου covid-19
+https://ionio.gr/gr/news/13807 <img class="slider-img-image" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13807-67399.jpg" alt="img"/>
+https://ionio.gr/gr/news/13807 Μέτρα προστασίας της Δημόσιας Υγείας μέσω πρόληψης κατά της διασποράς του κορωνοϊού COVID-19 σε χώρους εργασίας
+https://ionio.gr/gr/news/13823 <img class="slider-img-image" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13823-73090.jpg" alt="img"/>
+https://ionio.gr/gr/news/13823 Εμπλουτισμός της IATE με δίγλωσσα γλωσσάρια όρων (ΓΕΡ-ΕΛΛ) από τους φοιτητές του γερμανικού τομέα του Τμήματος Ξένων Γλωσσών, Μετάφρασης και Διερμηνείας
+https://ionio.gr/gr/news/13753 <img class="slider-img-image" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13753-31829.jpg" alt="img"/>
+https://ionio.gr/gr/news/13753 Θερινό σχολείο με θέμα την αρχαία ναυσιπλοΐα - “Seafarers in Ancient Greece: Pirates, Sailors, Colonizers”
+https://ionio.gr/gr/news/13715 <img class="slider-img-image" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13715-79818.png" alt="img"/>
+https://ionio.gr/gr/news/13715 Θερινό Σχολείο Ελληνικής Γλώσσας, Ιστορίας & Ελληνικού Πολιτισμού
+https://ionio.gr/gr/news/all-news/ <span class="front-block-icon-img" style="background-image:url(https://ionio.gr/images/layout/icon_1.png)">
+https://ionio.gr/gr/news/all-news/ Σημαντικά Νέα
+https://ionio.gr/gr/news/all-news-f1-covid19-f2-all/" title="Συνεχής Ενημέρωση" style="text-align:center; <img src="https://ionio.gr/central/commons/images/banners/covid_19_banner.jpg" alt="Covid-19 banners" />
+https://ionio.gr/gr/news/all-news-f1-internship-f2-all Πρακτική Άσκηση
+https://ionio.gr/gr/news/all-news-f1-nutrition-f2-all Σίτιση
+https://ionio.gr/gr/news/all-news-f1-conferences-f2-all Συνέδρια
+https://ionio.gr/gr/news/all-news-f1-proclamations-f2-all Προκηρύξεις
+https://ionio.gr/gr/news/all-news-f1-reviews-f2-all Ανασκοπήσεις Εκδηλώσεων
+https://ionio.gr/gr/news/all-news-f1-news-events-f2-all Εκδηλώσεις
+https://ionio.gr/gr/news/all-news-f1-competitions-f2-all Γενικοί Διαγωνισμοί
+https://ionio.gr/gr/news/all-news-f1-scholarships-f2-all Υποτροφίες
+https://ionio.gr/gr/news/all-news-f1-erasmus-f2-all Erasmus
+https://ionio.gr/gr/news/all-news-f1-housing-f2-all Στέγαση
+https://ionio.gr/gr/news/all-news-f1-news-announcements-f2-all Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-covid19-f2-all Κορωνοϊός
+https://ionio.gr/gr/news/all-news-f1-graduate-f2-all Μεταπτυχιακές Σπουδές
+https://ionio.gr/gr/news/all-news-f1-professor-elections-f2-all Εκλογές Καθηγητών
+/gr/news/all-news/ Όλα τα Νέα
+https://ionio.gr/gr/news/all-news-f1-all-f2-all/ <span class="front-block-icon-img" style="background-image:url(https://ionio.gr/images/layout/icon_2.png)">
+https://ionio.gr/gr/news/all-news-f1-all-f2-all/ Πρόσφατα Νέα
+https://ionio.gr/gr/news/14517 Πρόσκληση εκδήλωσης ενδιαφέροντος για την προμήθεια εξοπλισμού και αδειών χρήσης λογισμικού για την κάλυψη έκτακτων αναγκών εξ αποστάσεως εκπαίδευσης του Ιδρύματος
+https://ionio.gr/gr/news/all-news-f1-proclamations/ Προκηρύξεις
+https://ionio.gr/gr/news/all-news-f1-call-for-offers/ Προσκλήσεις Προσφορών
+https://ionio.gr/gr/news/all-news-f1-covid19/ Κορωνοϊός
+https://ionio.gr/gr/news/14517 Περισσότερα
+https://ionio.gr/gr/news/14510 Τμήμα Μουσικών Σπουδών: Προκήρυξη θέσης Αναπληρωτή Καθηγητή στο αντικείμενο «Μονωδία»
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-professor-elections/ Εκλογές Καθηγητών
+https://ionio.gr/gr/news/14510 Περισσότερα
+https://ionio.gr/gr/news/14509 Τμήμα Μουσικών Σπουδών: Προκήρυξη θέσης Επίκουρου Καθηγητή στο αντικείμενο «Διεύθυνση Μικτής Χορωδίας»
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-professor-elections/ Εκλογές Καθηγητών
+https://ionio.gr/gr/news/14509 Περισσότερα
+https://ionio.gr/gr/news/14508 ΤΑΒΜ: Προκήρυξη θέσης Καθηγητή στο αντικείμενο «Ιστορία της Διοίκησης και των Θεσμών του Νεοελληνικού Κράτους»
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-professor-elections/ Εκλογές Καθηγητών
+https://ionio.gr/gr/news/14508 Περισσότερα
+https://ionio.gr/gr/news/14507 Τμήμα Ιστορίας: Προκήρυξη θέσης Επίκουρου Καθηγητή στο αντικείμενο «Ιστορία του 20ου αι. με έμφαση στην Ιστορία των Διεθνών Σχέσεων»
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-professor-elections/ Εκλογές Καθηγητών
+https://ionio.gr/gr/news/14507 Περισσότερα
+https://ionio.gr/gr/news/12599 ΤΤΗΕ: Ταμπού-Παράβαση-Υπέρβαση στην Τέχνη και την Επιστήμη, Ανοικτή πρόσκληση υποβολής προτάσεων εισηγήσεων, αφισών και καλλιτεχνικών ομιλιών για το TTT2020, Βιέννη - Παράταση: 31/5/2020
+https://ionio.gr/gr/news/12599 <img class="news-list-thumb" src="https://ionio.gr/images/content/news/12000-12999/IU-ni-12599-40208.jpg" alt="" />
+https://ionio.gr/gr/news/all-news-f1-events/ Γενικές Εκδηλώσεις
+https://ionio.gr/gr/news/all-news-f1-conferences/ Συνέδρια
+https://ionio.gr/gr/news/all-news-f1-covid19/ Κορωνοϊός
+https://ionio.gr/gr/news/12599 Περισσότερα
+https://ionio.gr/gr/news/13884 Δίκτυο για τις Εφαρμογές  Ήχου και Εικόνας για Ενεργό και Υποβοηθούμενη Διαβίωση σε σχέση με την Προστασία της Ιδιωτικής Ζωής ("Good Brother")
+https://ionio.gr/gr/news/13884 <img class="news-list-thumb" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13884-35690.jpg" alt="" />
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-research/ Έρευνα
+https://ionio.gr/gr/news/13884 Περισσότερα
+https://ionio.gr/gr/news/13826 Οδηγίες χρήσης για τις πλατφόρμες σύγχρονης τηλεκπαίδευσης Webex (Cisco) και ZOOM
+https://ionio.gr/gr/news/13826 <img class="news-list-thumb" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13826-24014.jpg" alt="" />
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-covid19/ Κορωνοϊός
+https://ionio.gr/gr/news/13826 Περισσότερα
+https://ionio.gr/gr/news/13855 Οδηγίες σχετικά με τη μετακίνηση φοιτητών των εστιών των Α.Ε.Ι.
+https://ionio.gr/gr/news/13855 <img class="news-list-thumb" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13855-16774.jpg" alt="" />
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-covid19/ Κορωνοϊός
+https://ionio.gr/gr/news/13855 Περισσότερα
+https://ionio.gr/gr/news/13847 Ανακοίνωση για την προσωρινή απαγόρευση λειτουργίας για προληπτικούς λόγους δημόσιας υγείας των φοιτητικών εστιατορίων
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-nutrition/ Σίτιση
+https://ionio.gr/gr/news/all-news-f1-covid19/ Κορωνοϊός
+https://ionio.gr/gr/news/13847 Περισσότερα
+https://ionio.gr/gr/news/13844 Νέες ρυθμίσεις για την αντιμετώπιση της ανάγκης περιορισμού της διασποράς του κορωνοϊού - «Επέκταση της διευκόλυνσης ειδικής άδειας σε άλλες ομάδες ευπαθείς/αυξημένου κινδύνου για σοβαρή λοίμωξη COVID 19»
+https://ionio.gr/gr/news/13844 <img class="news-list-thumb" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13844-74208.jpg" alt="" />
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-covid19/ Κορωνοϊός
+https://ionio.gr/gr/news/13844 Περισσότερα
+https://ionio.gr/gr/news/13843 Ανακοίνωση για την προσωρινή απαγόρευση λειτουργίας για προληπτικούς λόγους δημόσιας υγείας των φοιτητικών εστιών
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-housing/ Στέγαση
+https://ionio.gr/gr/news/all-news-f1-covid19/ Κορωνοϊός
+https://ionio.gr/gr/news/13843 Περισσότερα
+https://ionio.gr/gr/news/13841 Παράταση της προσωρινής απαγόρευσης λειτουργίας των ΑΕΙ έως 10.04.2020
+https://ionio.gr/gr/news/13841 <img class="news-list-thumb" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13841-94489.jpg" alt="" />
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-covid19/ Κορωνοϊός
+https://ionio.gr/gr/news/13841 Περισσότερα
+https://ionio.gr/gr/news/13823 Εμπλουτισμός της IATE με δίγλωσσα γλωσσάρια όρων (ΓΕΡ-ΕΛΛ) από τους φοιτητές του γερμανικού τομέα του Τμήματος Ξένων Γλωσσών, Μετάφρασης και Διερμηνείας
+https://ionio.gr/gr/news/13823 <img class="news-list-thumb" src="https://ionio.gr/images/content/news/13000-13999/IU-ni-13823-73090.jpg" alt="" />
+https://ionio.gr/gr/news/all-news-f1-announcements/ Γενικές Ανακοινώσεις
+https://ionio.gr/gr/news/all-news-f1-research/ Έρευνα
+https://ionio.gr/gr/news/13823 Περισσότερα
+https://ionio.gr/gr/news/all-news-f1-all-f2-all/ Όλα τα Νέα
+/gr/studies/postgraduate/ Μεταπτυχιακές και Διδακτορικές Σπουδές
+https://history.ionio.gr/ Ιστορίας
+http://dflti.ionio.gr/ Ξένων Γλωσσών, Mετάφρασης &amp; Διερμηνείας
+http://tab.ionio.gr/ Αρχειονομίας, Βιβλιοθηκονομίας &amp; Μουσειολογίας
+http://di.ionio.gr/ Πληροφορικής
+https://dmc.ionio.gr/ Ψηφιακών Μέσων και Επικοινωνίας
+https://avarts.ionio.gr/ Τεχνών Ήχου &amp; Εικόνας
+https://music.ionio.gr/ Μουσικών Σπουδών
+https://ethnomus.ionio.gr/ Εθνομουσικολογίας
+https://envi.ionio.gr Περιβάλλοντος
+https://fst.ionio.gr Επιστήμης και Τεχνολογίας Τροφίμων
+http://rd.ionio.gr Περιφερειακής Ανάπτυξης
+http://tourism.ionio.gr Τουρισμού
+http://www.teiion.gr/" target="_blank <img class="max-width" src="https://ionio.gr/images/banners/teiion_logo2.png" alt="logo"/>Τεχνολογικό Εκπαιδευτικό Ίδρυμα Ιονίων Νήσων
+https://kedivim.ionio.gr/" class="round-img-title Κέντρο Επιμόρφωσης
+http://modip.ionio.gr/" class="round-img-title Μονάδα Διασφάλισης 
+http://sites.ionio.gr/international/gr/erasmus/" class="round-img-title Erasmus Charter for
+http://iup.ionio.gr/" class="round-img-title Βιβλιοθήκη και Κέντρο
+http://dasta.ionio.gr/internship/" class="round-img-title Γραφείο Πρακτικής
+https://studentsupport.ionio.gr/" class="round-img-title Yποστήριξη Παρεμβάσεων
+https://kedivim.ionio.gr/" class="button small full-width kedivim.ionio.gr
+http://modip.ionio.gr/" class="button small full-width modip.ionio.gr
+http://sites.ionio.gr/international/gr/erasmus/" class="button small full-width sites.ionio.gr/international
+http://iup.ionio.gr/" class="button small full-width iup.ionio.gr
+http://dasta.ionio.gr/internship/" class="button small full-width dasta.ionio.gr/internship
+https://studentsupport.ionio.gr/" class="button small full-width studentsupport.ionio.gr
+https://ionio.gr/gr/studies/e-learning/" style="display:block;padding-top:30px;padding-bottom:30px;background:#be091c; <img class="max-width" src="https://ionio.gr/images/banners/elearning_banner.jpg" alt=""/>
+https://ionio.gr/gr/news/9568/" style="display:block;padding-top:30px;padding-bottom:30px;background:#76CED8; <img class="max-width" src="https://ionio.gr/images/banners/9568_banner.jpg" alt=""/>
+https://ionio.gr/gr/news/12035/" style="display:block;padding-top:30px;padding-bottom:30px;background:#9CA89C; <img class="max-width" src="https://ionio.gr/images/banners/brochure_2018_banner.jpg" alt=""/>
+https://ionio.gr/gr/studies/summer-schools/" style="display:block;padding-top:30px;padding-bottom:30px;background:#0D3976; <img class="max-width" src="https://ionio.gr/images/banners/summer_banner.jpg" alt=""/>
+https://ionio.gr/gr/news/all-news/ <span class="front-block-icon-img" style="background-image:url(https://ionio.gr/images/layout/icon_xs1.png)">
+https://ionio.gr/gr/news/all-news/ Όλα τα Νέα
+https://ionio.gr/gr/community/directory/ <span class="front-block-icon-img" style="background-image:url(https://ionio.gr/images/layout/icon_xs2.png)">
+https://ionio.gr/gr/community/directory/ Πλήρης Κατάλογος
+javascript:void(0) &lt;&lt;
+javascript:void(0) &lt;
+javascript:void(0) &gt;
+javascript:void(0) &gt;&gt;
+https://ionio.gr/gr/news/14517 Πρόσκληση εκδήλωσης ενδιαφέροντος για την προμήθεια εξοπλισμού και αδειών χρήσης λογισμικού για την κάλυψη έκτακτων αναγκών εξ αποστάσεως εκπαίδευσης του Ιδρύματος
+javascript:void(0); Συνημμένα αρχεία
+https://ionio.gr/download.php?f=14000-14999/IU-nf-14517-71983-gr.pdf" title="Κείμενο συνημμένου στα Ελληνικά <img src="https://ionio.gr/commons/images/flags/gr.png" alt="" />&nbsp;&nbsp;
+https://ionio.gr/download.php?f=14000-14999/IU-nf-14517-14008-gr.docx" title="Κείμενο συνημμένου στα Ελληνικά <img src="https://ionio.gr/commons/images/flags/gr.png" alt="" />&nbsp;&nbsp;
+https://ionio.gr/gr/university Το Πανεπιστήμιο
+https://ionio.gr/gr/community Κοινότητα
+https://ionio.gr/gr/studies Σπουδές
+https://ionio.gr/gr/services Υπηρεσίες
+https://ionio.gr/gr/research Έρευνα
+https://ionio.gr/gr/news Νέα
+https://ionio.gr/gr/students Φοιτητές
+https://ionio.gr/gr/prospective Υποψήφιοι Φοιτητές
+https://ionio.gr/gr/about Ionio.gr
+http://sites.diavgeia.gov.gr/ionio_panepistimio <img class="max-width bottom-banner" src="https://ionio.gr/images/banners/diavgeia_small2.jpg" alt="">
+http://eudoxus.gr <img class="max-width bottom-banner" src="https://ionio.gr/images/banners/eudoxus_small2.jpg" alt="">
+http://www.clarin.gr/ <img class="max-width bottom-banner" src="https://ionio.gr/images/banners/clarin_small2.jpg" alt="">
+http://www.eua.be <img class="max-width bottom-banner" src="https://ionio.gr/images/banners/eua_small2.jpg" alt="">
+http://www.magna-charta.org <img class="max-width bottom-banner" src="https://ionio.gr/images/banners/observatory_small2.jpg" alt="">
+https://www.facebook.com/ionio.gr" title="facebook <img src="https://ionio.gr/images/layout/icon_fb.png" alt=""/>
+https://twitter.com/myionio" title="twitter <img src="https://ionio.gr/images/layout/icon_tw.png" alt=""/>
+http://www.youtube.com/user/myionio" title="youtube <img src="https://ionio.gr/images/layout/icon_yt.png" alt=""/>
+https://www.instagram.com/ionianuniversity/" title="instagram <img src="https://ionio.gr/images/layout/icon_ig.png" alt=""/>
+https://ionio.gr/feeds/rss_gr.xml" title="rss feed <img src="https://ionio.gr/images/layout/icon_rs.png" alt=""/>
+https://ionio.gr/gr/university/contact/ Επικοινωνία
+https://ionio.gr/gr/about/ www.ionio.gr
+https://ionio.gr/gr/about/webteam/ WebTeam
+ ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ Ιστοχώροι Ιονίου Πανεπιστημίου Υπηρεσίες WebMail Τηλεφωνικός Κατάλογος Open eClass (OpenCourses) - Ασύγχρονη Τηλεκπαίδευση e-Class - Ασύγχρονη Τηλεκπαίδευση Online Υπηρεσίες Γραμματείας (gram-web) Σύστημα Υποβοήθησης Διδασκαλίας (classweb) Υποστήριξη Παρεμβάσεων Κοινωνικής Μέριμνας Φορείς Βιβλιοθήκη Διεθνείς Δημόσιες Σχέσεις Γραφείο Πρακτικής Άσκησης Κέντρο Επιμόρφωσης και Δια Βίου Μάθησης Μονάδα Διασφάλισης Ποιότητας - ΜΟ.ΔΙ.Π Μουσείο Ιονίου Πανεπιστημίου Δίκτυα Τηλεπικοινωνίες Ακαδημαϊκά Τμήματα Ιστορίας Ξένων Γλωσσών, Μετάφρασης Διερμηνείας Αρχειονομίας, Βιβλιοθηκονομίας Μουσειολογίας Πληροφορικής Τεχνών Ήχου και Εικόνας Μουσικών Σπουδών Ψηφιακών Μέσων και Επικοινωνίας Εθνομουσικολογίας Περιβάλλοντος Επιστήμης και Τεχνολογίας Τροφίμων Περιφερειακής Ανάπτυξης Τουρισμού Δικτυακός τόπος Ionio.gr Στατιστικά κίνησης Σύνδεσμοι Χάρτης δικτυακού τόπου Ομάδα Ανάπτυξης Διαχείρισης (function() { var cx = '012830921954111115301:-c8cvpmjjn0'; var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true; gcse.src = 'https://www.google.com/cse/cse.js?cx=' + cx; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s); })(); English MENU Πρυτανεία Πρύτανης ΚαθηγητήςΒασίλειος Χρυσικόπουλος Αναπληρωτές Πρύτανη ΚαθηγητήςΘεόδωρος Παππάς ΚαθηγητήςΚωνσταντίνος Αγγελάκος ΚαθηγητήςΙωσήφ Παπαδάτος Περισσότερα Το Πανεπιστήμιο Διοίκηση Πρυτανεία Σύγκλητος Οργανόγραμμα Παρουσίαση Πανεπιστημίου Κέντρο Επιμόρφωσης και Δια Βίου Μάθησης Μονάδα Διασφάλισης Ποιότητας Πανεπιστημιακό Μουσείο Πρόσβαση Χάρτης Ιονίων Νήσων Επικοινωνία Κοινότητα Ευρετήριο Προσωπικού Διδακτικό Προσωπικό Διοικητικό Προσωπικό Μητρώα Εκλεκτόρων Σύλλογοι Κοινωνική Δικτύωση Σπουδές Σχολές Σχολή Ιστορίας Σταδιοδρομία Απόφοιτοι Υπηρεσίες Βιβλιοθήκη Διεύθυνση Διοικητικού Τμήμα Διοικητικού Προσωπικού Έντυπα Αξιολόγησης Έντυπα Αδειών Τμήμα Διεθνών Μετάφρασης - Διερμηνείας Κέρκυρα Μάιος 2013 119/28.5.2013, τεύχος Α Τμήματα:Ιστορίαςhistory.ionio.gr ΚέρκυραΞένων Γλωσσών, Mετάφρασης Διερμηνείαςdflti.ionio.gr Κέρκυρα Σχολή Επιστήμης της Πληροφορίας Πληροφορικής Κέρκυρα Μάιος 2013 119/28.5.2013, τεύχος Α Τμήματα:Αρχειονομίας, Βιβλιοθηκονομίας Μουσειολογίαςtab.ionio.gr ΚέρκυραΠληροφορικήςdi.ionio.gr ΚέρκυραΨηφιακών Μέσων και Επικοινωνίαςdmc.ionio.grΑργοστόλι Σχολή Μουσικής Οπτικοακουστικών Τεχνών Κέρκυρα Μάιος 2013 119/28.5.2013, τεύχος Α Τμήματα:Τεχνών Ήχου Εικόναςavarts.ionio.gr ΚέρκυραΜουσικών Σπουδώνmusic.ionio.gr ΚέρκυραΕθνομουσικολογίαςethnomus.ionio.gr Ληξούρι Σχολή Περιβάλλοντος Ζάκυνθος Οκτώβριος 2018 142/03.08.2018, τεύχος Α Τμήματα:Περιβάλλοντοςenvi.ionio.gr ΖάκυνθοςΕπιστήμης και Τεχνολογίας Τροφίμωνfst.ionio.gr Αργοστόλι Σχολή Οικονομικών Επιστημών Κέρκυρα Οκτώβριος 2018 142/03.08.2018, τεύχος Α Τμήματα:Περιφερειακής Ανάπτυξηςrd.ionio.gr ΛευκάδαΤουρισμούtourism.ionio.gr Κέρκυρα Τεχνολογικό Εκπαιδευτικό Ίδρυμα Ιονίων Νήσων Κέντρο Επιμόρφωσηςκαι Δια Βίου Μάθησης Το ΚΕ.ΔΙ.ΒΙ.Μ. στοχεύει στη διασύνδεση του Πανεπιστημίου με τους ανθρώπους της επιστήμης και του πολιτισμού και στην αλληλεπίδρασή του με τους πολίτες. Μονάδα Διασφάλισης Ποιότητας (ΜΟΔΙΠ) Ο δικτυακός τόπος της ΜΟ.ΔΙ.Π. στοχεύει στην εξασφάλιση της δυνατότητας πρόσβασης σε κάθε μορφής πληροφορία που σχετίζεται με τη διασφάλιση της ποιότητας της εκπαίδευσης και της έρευνας στο Ίδρυμα. Erasmus Charter forHigher Education Το Ιόνιο Πανεπιστήμιο συμμετέχει στο Πρόγραμμα ERASMUS+ με κινητικότητα διδακτικού προσωπικού για διδασκαλία, κινητικότητα διοικητικού προσωπικού για επιμόρφωση, κινητικότητα φοιτητών για σπουδές και για πρακτική άσκηση. Βιβλιοθήκη και ΚέντροΠληροφόρησης Η Διαδικτυακή πύλη της Βιβλιοθήκης του Ιονίου Πανεπιστημίου αποτελεί υλοποίηση βασικού στόχου του προγράμματος αναβάθμισης της βιβλιοθήκης του Ιονίου Πανεπιστημίου. Γραφείο ΠρακτικήςΆσκησης ΙΠ Πρακτική Άσκηση Ιονίου Πανεπιστημίου Μέσω του Επιχειρησιακού Προγράμματος «Ανάπτυξη Ανθρώπινου Δυναμικού, Εκπαίδευση και Δία Βίου Μάθηση» 2014 – 2020. Yποστήριξη ΠαρεμβάσεωνΚοινωνικής Μέριμνας Η Υποστήριξη Παρεμβάσεων Κοινωνικής Μέριμνας Φοιτητών του Ιονίου Πανεπιστημίου στοχεύει μέσω της λειτουργίας της να παρέχει ουσιαστική στήριξη σε φοιτητές. kedivim.ionio.gr modip.ionio.gr sites.ionio.gr/international iup.ionio.gr dasta.ionio.gr/internship studentsupport.ionio.gr Αναζήτηση Δημοσιεύσεων Όλα τα Νέα Αναζήτηση Προσωπικού Πλήρης Κατάλογος Απρίλιος 2020 Δε Τρ Τε Πε Πα Σα Κυ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 Σήμερα, Τρίτη 07-04-2020 Πρόσκληση εκδήλωσης ενδιαφέροντος για την προμήθεια εξοπλισμού και αδειών χρήσης λογισμικού για την κάλυψη έκτακτων αναγκών εξ αποστάσεως εκπαίδευσης του Ιδρύματος Έναρξη: 06-04-2020 |Λήξη: 09-04-2020 [Σε Εξέλιξη] Συνημμένα αρχεία Πρόσκληση εκδήλωσης ενδιαφέροντος για την προμήθεια εξοπλισμού και αδειών χρήσης λογισμικού για την κάλυψη έκτακτων αναγκών εξ αποστάσεως εκπαίδευσης του ΙδρύματοςMέγεθος: 746.53KB :: Τύπος: Αρχείο PDFΠρόσκληση εκδήλωσης ενδιαφέροντος για την προμήθεια εξοπλισμού και αδειών χρήσης λογισμικού για την κάλυψη έκτακτων αναγκών εξ αποστάσεως εκπαίδευσης του ΙδρύματοςMέγεθος: 84.99KB :: Τύπος: Kείμενο Word Το Πανεπιστήμιο Κοινότητα Σπουδές Υπηρεσίες Έρευνα Νέα Φοιτητές Υποψήφιοι Φοιτητές Ionio.gr Newsletter Ιόνιο Πανεπιστήμιο, Ιωάννου Θεοτόκη 72, 49100 Κέρκυρα, Τ.Θ. 663 Επικοινωνία | www.ionio.gr | WebTeam 
